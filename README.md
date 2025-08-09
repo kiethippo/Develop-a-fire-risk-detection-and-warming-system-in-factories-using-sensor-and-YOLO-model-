@@ -74,8 +74,17 @@ Hiển thị App/Web và cảnh báo thời gian thực
 - Đăng nhập, phân quyền thiết bị theo mã camera.
 - Lưu trữ thông tin bằng MongoDB.
 
-## Kết quả Huấn Luyện 
+## 📈 Hình ảnh kết quả Huấn Luyện 
 <img width="876" height="438" alt="image" src="https://github.com/user-attachments/assets/35287b05-e9de-4d4a-b2f6-05a47f74f797" />
+## Training log chart ##
+
+<img width="845" height="634" alt="image" src="https://github.com/user-attachments/assets/5fcf040c-e4ca-4747-bf73-59362e657102" />
+
+## Confusion Matrix ##
+
+<img width="790" height="593" alt="image" src="https://github.com/user-attachments/assets/c740e0ac-52ca-4ecf-9a57-29ad311d670e" />
+
+## Confusion Matrix Normalized ##
 
 
 
