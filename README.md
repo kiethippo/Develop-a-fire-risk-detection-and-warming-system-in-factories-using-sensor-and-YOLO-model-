@@ -74,6 +74,11 @@ Hiển thị App/Web và cảnh báo thời gian thực
 - Đăng nhập, phân quyền thiết bị theo mã camera.
 - Lưu trữ thông tin bằng MongoDB.
 
+## Kết quả Huấn Luyện 
+<img width="876" height="438" alt="image" src="https://github.com/user-attachments/assets/35287b05-e9de-4d4a-b2f6-05a47f74f797" />
+
+
+
 ## 👨‍💻 Tác Giả
 
 - Huỳnh Ngọc Anh Kiệt – 22520718  
